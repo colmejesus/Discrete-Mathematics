@@ -186,9 +186,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4c49a5ac19d86e9a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "15. Recurrence Relation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 14
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -254,7 +266,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "14. Asymtotic Notations.md",
+                "file": "15. Recurrence Relation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -271,7 +283,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "14. Asymtotic Notations.md",
+                "file": "15. Recurrence Relation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -294,7 +306,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "14. Asymtotic Notations.md"
+                "file": "15. Recurrence Relation.md"
               }
             }
           }
@@ -315,8 +327,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7681755252b0eef7",
+  "active": "4c49a5ac19d86e9a",
   "lastOpenFiles": [
+    "14. Asymtotic Notations.md",
+    "15. Recurrence Relation.md",
     "01. Mathematical Statements.md",
     "12. Effiecient Algorithms for Polynomial Evaluation and For Finding Greatest Common Divisor.md",
     "11. Some More Common Functions.md",
